@@ -1,5 +1,5 @@
 # BBDC-Bot-Modified
-a modified script based on https://github.com/rohit0718/BBDC-bot
+a modified script based on https://github.com/rohit0718/BBDC-bot.
 the original script was not made to run indifinitely, so i added my own codes into it
 
 # Original script features
