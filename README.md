@@ -6,7 +6,8 @@ the original script was not made to run indifinitely, so i added my own codes in
 - auto logs into the bbdc webpage
 - selects everything for month, session and day
 - and books every slots for you
-- was not designed to retry attempts
+- only run once per try
+- this script did alot of the basics. if it didnt exists, this modification would not exists
 
 # Added features due to my modification
 - selects user-specified month, session and day
@@ -14,6 +15,8 @@ the original script was not made to run indifinitely, so i added my own codes in
 - random delays between each attempts [to prevent hammering on the server]
 - auto restart script when an unexpected error occurs
 - added more verbose
+- minor adjustments and error detection
+- little bit of noob proofing
 
 
 # Requirements
