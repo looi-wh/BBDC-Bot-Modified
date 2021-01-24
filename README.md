@@ -24,16 +24,18 @@ the original script was not made to run indifinitely, so i added my own codes in
 
 # Editing the script
 - edit the script with your favourite editor
-- find a section
+- find the following section and edit it.
 ```
 chromedriver_location = 'insert_chromedriver_location'
 username = 'insert_username'
 password = 'insert_password'
 ```
+- chromedriver_location must specify the file itself. simply stating the directory wont work
 - edit the additional variables to select which slots to book
 - it is a list variable, meaning you can always enter more than 1 slots at once
 
 # Running it
+simply run
 ```
 python3 bbdc_bot.py
 ```
