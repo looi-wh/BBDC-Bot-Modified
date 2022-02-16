@@ -17,19 +17,19 @@ the original script was not made to run indifinitely, so i added my own codes in
 - added more verbose
 - minor adjustments and error detection
 - little bit of noob proofing
+- [new] no longer requires webdriver to be downloaded manually
+- [new] additional anti anti bot features
 
 
 # Requirements
 - python3
-- a python module "selenium"
+- python modules "selenium" and "webdriver_manager"
 - google chrome
-- chrome webdriver from http://chromedriver.chromium.org/downloads
 
 # Editing the script
 - edit the script with your favourite editor
 - find the following section and edit it.
 ```
-chromedriver_location = 'insert_chromedriver_location'
 username = 'insert_username'
 password = 'insert_password'
 ```
