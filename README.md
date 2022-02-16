@@ -17,7 +17,7 @@ the original script was not made to run indifinitely, so i added my own codes in
 - added more verbose
 - minor adjustments and error detection
 - little bit of noob proofing
-- [new] no longer requires webdriver to be downloaded manually
+- [new] no longer requires chromedriver to be downloaded manually
 - [new] additional anti anti bot features
 
 
@@ -33,7 +33,6 @@ the original script was not made to run indifinitely, so i added my own codes in
 username = 'insert_username'
 password = 'insert_password'
 ```
-- chromedriver_location must specify the file itself. simply stating the directory wont work
 - edit the additional variables to select which slots to book
 - it is a list variable, meaning you can always enter more than 1 slots at once
 
